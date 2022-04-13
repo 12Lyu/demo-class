@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: red;
+    border: 0vmax;
+}
+.new {
+    color: white;
+    background: blue;
+     border: 6px solid blue; 
+     width: 100px;
+}
+.one span {
+color: red;
+}
+
+h2{
+    color: white;
+    background: green;
+    height: 35px;;
+    }
+    p{
+        margin: 10px; 0px;
+    }
+
+.block {
+height: 40px;
+padding: 40px; 10px; 5px; 10px;
+}
+ 
+.bloc {
+     margin-left: 70px;
+}
+
